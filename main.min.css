@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200&display=swap');
+
+html, body{
+    background-color: #3d3d3d;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+input{
+    color: white;
+    background-color: #5a5656;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-family: Montserrat, monospace;
+}
+
+iframe{
+    background-color: #242424;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+::placeholder{
+    color: rgb(170, 170, 170);
+    text-align: center;
+}
+
+:-ms-input-placeholder{
+    color: rgb(170, 170, 170);
+    text-align: center;
+}
+
+img{
+    border: 0px;
+}
+
+p{
+    font-family: 'Libre Franklin', sans-serif;
+    white-space: pre-line;
+}
+
+button{
+    background-color: #242424;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+broken{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+thin{
+    font-family: 'Amatic SC', cursive;
+}
+
+marked{
+    font-family: 'Permanent Marker', cursive;
+}
+
+simple{
+    font-family: 'Patrick Hand', cursive;
+}
+
+bold{
+    font-family: 'Secular One', sans-serif;
+}
+
+*{
+    color: white;
+    outline: none;
+    transition: all 0.50s linear;
+}
+
+*:hover{
+    color: rgb(221, 221, 221);
+}
+
+*::selection{
+    background-color: white;
+    color: black;
+}
