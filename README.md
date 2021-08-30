@@ -1,2 +1,3 @@
 # WOW.CSS
-An Is An Awesome CSS Framework Built By Me For Your Apps!
+This Is An Awesome CSS Framework Built By Me For Your Apps!  
+**NOTE: THIS IS CURRENTLY IN BETA RELEASE & ALL TAGS AREN'T STILL READY!**
