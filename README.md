@@ -7,8 +7,15 @@ It's An Awesome Framework Developed to Build Awesome Apps in HTML, CSS & JS!
 
 <br><br>
 
+# Can I Get A Preview?
+<pre>
+Just Click <a href="https://sancho1952007.github.io/WOW.CSS/">Here</a> for A Preview!
+</pre>
+
+<br><br>
+
 # How to Import it In My Code?
-***Just Insert The Below Code in Your HTML Code...***
+***Just Insert The Below Code in Your HTML Code to Get The Latest Version...***
 ```html
 <link rel="stylesheet" href="https://sancho1952007.github.io/WOW.CSS/main.min.css">
 ```
