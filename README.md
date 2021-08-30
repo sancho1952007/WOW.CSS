@@ -17,7 +17,7 @@ Just Click <a href="https://sancho1952007.github.io/WOW.CSS/">Here</a> for A Pre
 # How to Import it In My Code?
 ***Just Insert The Below Code in Your HTML Code to Get The Latest Version...***
 ```html
-<link rel="stylesheet" href="https://sancho1952007.github.io/WOW.CSS/main.min.css">
+<link rel="stylesheet" href="https://sancho1952007.github.io/WOW.CSS/main.css">
 ```
 
 <br><br>
