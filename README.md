@@ -14,6 +14,26 @@ Just Click <a href="https://sancho1952007.github.io/WOW.CSS/">Here</a> for A Pre
 
 <br><br>
 
+# What's The Current Version?
+<pre>
+Current Version: v1.0
+</pre>
+
+<br><br>
+
+# Compatiblity?
+**Browser Name** | **Yes/No**
+------ | -----
+Chrome | Yes
+Internet Explorer (Version 8.9+)| Yes
+Edge | Yes
+Brave | Yes
+Opera | Yes
+
+***Supports All Modern Browser & Some Old Ones...***
+
+<br><br>
+
 # How to Import it In My Code?
 ***Just Insert The Below Code in Your HTML Code to Get The Latest Version...***
 ```html
