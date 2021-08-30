@@ -1,3 +1,5 @@
+![logo](https://i.ibb.co/0m3dJb5/Icon.png)
+<br><br>
 # What is WOW.CSS?
 <pre>
 It's An Awesome Framework Developed to Build Awesome Apps in HTML, CSS & JS!
